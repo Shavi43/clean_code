@@ -1,7 +1,7 @@
 # clean_code
-Code is understandable but following things can be improved :
-1) Instead of using magic numbers , we can use macro like :
-#define MIN_TIRE_PRESSURE 30.0
-#define MAX_TIRE_PRESSURE 35.0
-
+The following things can be improved :
+1) More meaningful names can be given instead of i and j.
 2) Comments can be added for more clarity.
+3) Instead of using magic numbers, macro can be used.
+#define MAJOR_COLOR_COUNT 5
+#define MINOR_COLOR_COUNT 5
